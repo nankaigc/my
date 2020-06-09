@@ -5,7 +5,7 @@ title: Roger's Website
 SEOTitle: 郭成的网站 | Roger Website
 url: "http://nankaigc.github.io/my"
 github_repo: "https://github.com/nankaigc/my.git"
-theme: jekyll-theme-cayman
+theme: random
 # main menu navigation
 menu:
   Home: index.html
