@@ -1,7 +1,10 @@
 
 # html lang
 language: zh-CN
-
+title: Roger's Website
+SEOTitle: 郭成的网站 | Roger Website
+url: "http://nankaigc.github.io/my"
+github_repo: "https://github.com/nankaigc/my.git"
 # main menu navigation
 menu:
   Home: index.html
@@ -9,12 +12,12 @@ menu:
   Tags: tags
   Categories: categories
   About: about
-  Github: https://github.com/stiekel
+  Github: https://github.com/nankaigc
 
 social:
-  GitHub: https://github.com/stiekel
+  GitHub: https://github.com/nankaigc
   Weibo: http://weibo.com/sidcn
-  M: histkc@gmail.com
+  M: roger_gc@outlook.com
 
 # Google analytics
 google_analytics: false
